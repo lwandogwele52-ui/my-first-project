@@ -2,3 +2,5 @@ My First Git Project
 
 Today I'm Learning Git!
 This is my First commit.
+origin is the name of used to refer to your remote repository on GitHub
+main is the name of your default branch 
